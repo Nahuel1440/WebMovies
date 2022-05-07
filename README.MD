@@ -8,4 +8,5 @@ Aplicación web de peliculas que nos permitira:
 ## Desarrollado con 🛠️
 * [React.js](https://es.reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
+* [Redux](https://redux.js.org/)
 
