@@ -1,5 +1,4 @@
-# WebMovies
-
+# Proyecto WebMovies
 Aplicación web de peliculas que nos permitira:
 * Buscar películas y listarlas.
 * Poder ver todos los detalles de una película en particular.
@@ -10,4 +9,5 @@ Aplicación web de peliculas que nos permitira:
 * [Bootstrap](https://getbootstrap.com/)
 * [Redux](https://redux.js.org/)
 * [ReactRouter](https://v5.reactrouter.com/)
-
+## API
+https://www.themoviedb.org/
