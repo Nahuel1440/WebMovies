@@ -1,7 +1,11 @@
-WebMovies
-Con esta web app vamos a poder:
-	  *Buscar películas y listarlas.
-  *Poder ver todos los detalles de una película en particular.
-  *Poder agregar las películas a tu lista de favoritos.
-  *Poder sacar películas de tu lista de favoritos.
-Se consume la información desde la api de peliculas de https://www.omdbapi.com/
+# WebMovies
+
+Aplicación web de peliculas que nos permitira:
+* Buscar películas y listarlas.
+* Poder ver todos los detalles de una película en particular.
+* Poder agregar las películas a tu lista de favoritos.
+* Poder sacar películas de tu lista de favoritos.
+## Desarrollado con 🛠️
+* [React.js](https://es.reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+
