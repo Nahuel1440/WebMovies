@@ -9,4 +9,5 @@ Aplicación web de peliculas que nos permitira:
 * [React.js](https://es.reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Redux](https://redux.js.org/)
+* [ReactRouter](https://v5.reactrouter.com/)
 
